@@ -10,6 +10,10 @@ For other FireTV device firmware visit the following:<br>
 <a href="https://forum.xda-developers.com/t/fire-tv-stick-lite-3-sheldon-p-firmware.4413597/">3rd gen Stick</a> (sheldon/p - 2020)<br>
 <a href="https://forum.xda-developers.com/t/fire-tv-stick-4k-max-kara-firmware-7-2-8-5-diff.4428871/">4K Max Stick</a> (kara - 2021)<br>
 <a href="https://github.com/Pro-me3us/gazelle_firmware">3rd gen Cube</a> (gazelle - 2022)<br>
+<a href="https://github.com/Pro-me3us/firestick_firmware">2nd gen 4k Stick</a> (karat - 2023)<br>
+<a href="https://github.com/Pro-me3us/firestick_firmware">2nd gen Max</a> (karat - 2023)<br>
+
+
 
 
 ### Full Firmware Update
