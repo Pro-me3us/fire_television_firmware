@@ -31,6 +31,9 @@ Amazon Fire TV Omni LED 4K (QL\*\*F601\* - 2023)<br>
 | 2026-06-21 | FireOS 7.7.1.4 (PS7714.5507) | [update-kindle-anna-kt-PS7714_user_5507_0035602662276.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/6/21/383c5f30-d7e3-4125-a9bb-e78d4c4e89fb/update-kindle-anna-kt-PS7714_user_5507_0035602662276.bin) | 1036.5MB | cb75fb7e26669945d6f889c637bbcf55 |
 | 2026-07-07 | FireOS 7.7.1.5 (PS7715.5585) | [update-kindle-anna-kt-PS7715_user_5585_0035736899972.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/7/7/347d70b9-f714-4ac8-b33c-f31c62837c4c/update-kindle-anna-kt-PS7715_user_5585_0035736899972.bin) | 1039.4MB | fbdf41e3b2ad0e85842433063ffa6659 |
 | 2026-08-17 | FireOS 7.7.1.6 (PS7716.5665) | [update-kindle-anna-kt-PS7716_user_5665_0036005355908.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/8/17/79591945-78c2-4249-bcf6-da69c2a94d5b/update-kindle-anna-kt-PS7716_user_5665_0036005355908.bin) | 1037.5MB | 59ece3ab2e082b1e9972a6a30fc6414a |
+| 2026-09-22 | FireOS 7.7.1.7 (PS7717.5741) | [update-kindle-anna-kt-PS7717_user_5741_0036408028548.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/9/22/44708163-f857-430c-ad47-b0f8880374bc/update-kindle-anna-kt-PS7717_user_5741_0036408028548.bin) | 1036.8MB | dd165d3c916ce0062cdea45e85236495 |
+| 2026-10-28 | FireOS 7.7.1.7 (PS7717.5746) | [update-kindle-anna-kt-PS7717_user_5746_0036408029828.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/10/28/be5a987f-82c2-446e-a810-eb1b3ba92f39/update-kindle-anna-kt-PS7717_user_5746_0036408029828.bin) | 1036.6MB | c5d09efdd23e7d1e48be78a526a8ba7b |
+
 
 
 TCL S4 Series 4K UHD HDR LED (\*\*S450F - 2023)<br>
@@ -60,6 +63,8 @@ TCL S4 Series 4K UHD HDR LED (\*\*S450F - 2023)<br>
 | 2026-06-22 | FireOS 7.7.1.4 (PS7714.5507) | [update-kindle-hazel-tm-PS7714_user_5507_0035602662276.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/6/22/0b056430-e71e-45ff-987a-0f02d71851ee/update-kindle-hazel-tm-PS7714_user_5507_0035602662276.bin) | 778.2MB | 1c1ac66128968225633114645ec0ea92 |
 | 2026-07-07 | FireOS 7.7.1.5 (PS7715.5585) | [update-kindle-hazel-tm-PS7715_user_5585_0035736899972.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/7/7/ea1b163d-2743-42b8-9d3c-d80dda28bc15/update-kindle-hazel-tm-PS7715_user_5585_0035736899972.bin) | 783.1MB | 821769537870f2fbb4f0b881d8a8c7cb |
 | 2026-08-17 | FireOS 7.7.1.6 (PS7716.5665) | [update-kindle-hazel-tm-PS7716_user_5665_0036005355908.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/8/17/4d1445a8-0ec7-4477-bfbf-2de7e7c38b2d/update-kindle-hazel-tm-PS7716_user_5665_0036005355908.bin) | 784.4MB | 459de9a7b579f7978ca6c63f036a4b23 |
+| 2026-09-22 | FireOS 7.7.1.7 (PS7717.5741) | [update-kindle-hazel-tm-PS7717_user_5741_0036408028548.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/9/22/9389e1fc-3c01-421e-808c-3b4d9d2a8410/update-kindle-hazel-tm-PS7717_user_5741_0036408028548.bin) | 783.3MB | 9ed0c3d8a3c284a3a4da1fd134960e44 |
+| 2026-10-28 | FireOS 7.7.1.7 (PS7717.5746) | [update-kindle-hazel-tm-PS7717_user_5746_0036408029828.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/10/28/3b7f760c-81ed-4a6b-a381-0ee86887ddf6/update-kindle-hazel-tm-PS7717_user_5746_0036408029828.bin) | 783.6MB | 187683b720294e30fb2eaeee47b84dbb |
 
 
 
@@ -84,6 +89,9 @@ Insignia Class F20 Series LED HD Smart Fire TV (NS-\*\*F201NA23 - 2023)<br>
 | 2026-02-23 | FireOS 7.7.1.2 (PS7712.5370) | [update-kindle-almond-bt-PS7712_user_5370_0035199974020.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/2/23/314004f8-ef50-498e-8c52-56125cad5948/update-kindle-almond-bt-PS7712_user_5370_0035199974020.bin) | 741.4MB | eacc8a5d0bc69621be70331277539f1b |
 | 2026-04-13 | FireOS 7.7.1.3 (PS7713.5443) | [update-kindle-almond-bt-PS7713_user_5443_0035334210436.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/4/13/4c64dbad-5c0d-45fb-9a99-b99f21ee3729/update-kindle-almond-bt-PS7713_user_5443_0035334210436.bin) | 742.7MB | 336c9fc3a1a7c93ef49bd2faf8433e57 |
 | 2026-07-06 | FireOS 7.7.1.5 (PS7715.5585) | [update-kindle-almond-bt-PS7715_user_5585_0035736899972.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/7/6/8100ff67-541a-4a59-b608-01670a8a2b53/update-kindle-almond-bt-PS7715_user_5585_0035736899972.bin) | 745.5MB | 44451b108c3778e4b6c9d3a1dedcb450 |
+| 2026-09-22 | FireOS 7.7.1.7 (PS7717.5741) | [update-kindle-almond-bt-PS7717_user_5741_0036408028548.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/9/22/b9ec94fc-d46c-488c-8dae-6f77ef5dbb9a/update-kindle-almond-bt-PS7717_user_5741_0036408028548.bin) | 745.7MB | 2c166adff0221cd7fdd96479d47c5e9e |
+| 2026-10-28 | FireOS 7.7.1.7 (PS7717.5746) | [update-kindle-anna-kt-PS7717_user_5746_0036408029828.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/10/28/be5a987f-82c2-446e-a810-eb1b3ba92f39/update-kindle-anna-kt-PS7717_user_5746_0036408029828.bin) | 1036.6MB | c5d09efdd23e7d1e48be78a526a8ba7b |
+
 
 
 Amazon Fire TV 4-series 4K UHD smart TV (4K\*\*N400\* - 2021) [AFTTI43]<br>
@@ -106,6 +114,9 @@ Amazon Fire TV 4-series 4K UHD smart TV (4K\*\*N400\* - 2021) [AFTTI43]<br>
 | 2026-06-21 | FireOS 7.7.1.4 (PS7714.5507) | [update-kindle-brandenburg-PS7714_user_5507_0035602662276.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/6/21/5deb1ba9-d92e-4150-8a5c-69b0e1d9aaa2/update-kindle-brandenburg-PS7714_user_5507_0035602662276.bin) | 986.3MB | aed8577c403b6bbb9ffb52b1b19fdc13 |
 | 2026-07-07 | FireOS 7.7.1.5 (PS7715.5585) | [update-kindle-brandenburg-PS7715_user_5585_0035736899972.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/7/7/066a2a96-4517-4bcf-b834-1173cd02f6ec/update-kindle-brandenburg-PS7715_user_5585_0035736899972.bin) | 988.8MB | 3e6afaa0bf54be86cdaa30f2ac063815 |
 | 2026-08-17 | FireOS 7.7.1.6 (PS7716.5665) | [update-kindle-brandenburg-PS7716_user_5665_0036005355908.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/8/17/26c88afb-6fe7-4292-9be6-934ea34baf4f/update-kindle-brandenburg-PS7716_user_5665_0036005355908.bin) | 990.2MB | 5e442d42c3eb76cbcd49909b3ee16c10 |
+| 2026-09-22 | FireOS 7.7.1.7 (PS7717.5741) | [update-kindle-brandenburg-PS7717_user_5741_0036408028548.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/9/22/1ce10646-20e5-43a6-a518-4afd01be3e0d/update-kindle-brandenburg-PS7717_user_5741_0036408028548.bin) | 989.3MB | 771d0b9aaf0aa08c8ca5e108382f3b06 |
+| 2026-10-28 | FireOS 7.7.1.7 (PS7717.5746) | [update-kindle-brandenburg-PS7717_user_5746_0036408029828.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/10/28/008d7150-708e-4627-981b-034d59d03d8f/update-kindle-brandenburg-PS7717_user_5746_0036408029828.bin) | 989.1MB | b7861ad10438dbde699a676cafa63be2 |
+
 
 
 <a name="Insignia-F30-Fire-TV"></a>
@@ -118,4 +129,7 @@ Insignia F30 Fire TV (NS-\*\*DF710NA21 - 2020) [AFTDCT31]<br>
 | 2026-02-24 | FireOS 7.7.1.2 (PS7712.5370) | [update-kindle-duckie-PS7712_user_5370_0035199974020.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/2/24/4144a362-4326-49bf-976a-1b4f727b48e7/update-kindle-duckie-PS7712_user_5370_0035199974020.bin) | 861.2MB | 536a08522be2fb8c41eb833b414c4954 |
 | 2026-04-09 | FireOS 7.7.1.3 (PS7713.5443) | [update-kindle-duckie-PS7713_user_5443_0035334210436.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/4/9/120482de-1f22-493e-8a80-49ec4c6f702b/update-kindle-duckie-PS7713_user_5443_0035334210436.bin) | 863.7MB | 2a93fea749e71995cbbe2d540fe45a6d |
 | 2026-07-06 | FireOS 7.7.1.5 (PS7715.5585) | [update-kindle-duckie-PS7715_user_5585_0035736899972.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/7/6/80207c60-79b0-4c5f-bd13-274a019be272/update-kindle-duckie-PS7715_user_5585_0035736899972.bin) | 865.5MB | 0397e66e50e4d8f0e346ed323e93a46a |
+| 2026-09-21 | FireOS 7.7.1.7 (PS7717.5741) | [update-kindle-duckie-PS7717_user_5741_0036408028548.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/9/21/3f48e0d3-74f5-4902-ab8f-8d23d16bd5c5/update-kindle-duckie-PS7717_user_5741_0036408028548.bin) | 865.9MB | ce5181732438341181765da3b0e9f7f4 |
+| 2026-10-29 | FireOS 7.7.1.7 (PS7717.5746) | [update-kindle-duckie-PS7717_user_5746_0036408029828.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/10/29/cb732ced-f30a-4efe-9848-6a10c858ea04/update-kindle-duckie-PS7717_user_5746_0036408029828.bin) | 865.7MB | 58bb6613842d89181eba678a2364fb87 |
+
 
