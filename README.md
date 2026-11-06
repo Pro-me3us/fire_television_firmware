@@ -34,6 +34,12 @@ Amazon Fire TV Omni LED 4K (QL\*\*F601\* - 2023)<br>
 | 2026-09-22 | FireOS 7.7.1.7 (PS7717.5741) | [update-kindle-anna-kt-PS7717_user_5741_0036408028548.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/9/22/44708163-f857-430c-ad47-b0f8880374bc/update-kindle-anna-kt-PS7717_user_5741_0036408028548.bin) | 1036.8MB | dd165d3c916ce0062cdea45e85236495 |
 | 2026-10-28 | FireOS 7.7.1.7 (PS7717.5746) | [update-kindle-anna-kt-PS7717_user_5746_0036408029828.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/10/28/be5a987f-82c2-446e-a810-eb1b3ba92f39/update-kindle-anna-kt-PS7717_user_5746_0036408029828.bin) | 1036.6MB | c5d09efdd23e7d1e48be78a526a8ba7b |
 
+Toshiba Class C350 Series LED 4K UHD Smart Fire TV (2024)<br>
+| Date | Version | Download | Size | MD5 |
+|:----:|:-------:|:--------:|:----:|:---:|
+| 2025-12-15 | FireOS 7.7.0.8 (PS7708.5501) | [update-kindle-hazel-hh-PS7708_user_5501_0034394701188.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/11/24/23b01cfc-2340-4e0a-91c8-f0b43b3b6f88/update-kindle-hazel-hh-PS7708_user_5501_0034394701188.bin) | 783.8MB | be74964f327cab46ec60ad70890312ca |
+| 2026-06-29 | FireOS 7.7.1.4 (PS7714.5507) | [update-kindle-hazel-hh-PS7714_user_5507_0035602662276.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/6/22/9cb705c4-7274-40eb-981e-4bf816be7095/update-kindle-hazel-hh-PS7714_user_5507_0035602662276.bin) | 777.3MB | d01d79f5b421500dcebb322dfd82740c |        
+| 2026-11-01 | FireOS 7.7.1.7 (PS7717.5746) | [update-kindle-hazel-hh-PS7717_user_5746_0036408029828.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/10/28/e4e0ef28-a606-4ca5-82c3-cf996d840a06/update-kindle-hazel-hh-PS7717_user_5746_0036408029828.bin) | 782.5MB | f89c1bf0c7b73c28b537e30986c4c533 |
 
 
 TCL S4 Series 4K UHD HDR LED (\*\*S450F - 2023)<br>
