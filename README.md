@@ -104,7 +104,7 @@ Insignia Class F20 Series LED HD Smart Fire TV (NS-\*\*F201NA23 - 2023)<br>
 | 2026-04-13 | FireOS 7.7.1.3 (PS7713.5443) | [update-kindle-almond-bt-PS7713_user_5443_0035334210436.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/4/13/4c64dbad-5c0d-45fb-9a99-b99f21ee3729/update-kindle-almond-bt-PS7713_user_5443_0035334210436.bin) | 742.7MB | 336c9fc3a1a7c93ef49bd2faf8433e57 |
 | 2026-07-06 | FireOS 7.7.1.5 (PS7715.5585) | [update-kindle-almond-bt-PS7715_user_5585_0035736899972.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/7/6/8100ff67-541a-4a59-b608-01670a8a2b53/update-kindle-almond-bt-PS7715_user_5585_0035736899972.bin) | 745.5MB | 44451b108c3778e4b6c9d3a1dedcb450 |
 | 2026-09-22 | FireOS 7.7.1.7 (PS7717.5741) | [update-kindle-almond-bt-PS7717_user_5741_0036408028548.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/9/22/b9ec94fc-d46c-488c-8dae-6f77ef5dbb9a/update-kindle-almond-bt-PS7717_user_5741_0036408028548.bin) | 745.7MB | 2c166adff0221cd7fdd96479d47c5e9e |
-| 2026-10-28 | FireOS 7.7.1.7 (PS7717.5746) | [update-kindle-anna-kt-PS7717_user_5746_0036408029828.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/10/28/be5a987f-82c2-446e-a810-eb1b3ba92f39/update-kindle-anna-kt-PS7717_user_5746_0036408029828.bin) | 1036.6MB | c5d09efdd23e7d1e48be78a526a8ba7b |
+| 2026-10-28 | FireOS 7.7.1.7 (PS7717.5746) | [update-kindle-almond-bt-PS7717_user_5746_0036408029828.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/10/28/2e6a0879-50bb-472b-9922-c5e445c81f1f/update-kindle-almond-bt-PS7717_user_5746_0036408029828.bin) | 745.6MB | 4fab2763dd755fa50d7da86e2abce80d |
 
 
 
