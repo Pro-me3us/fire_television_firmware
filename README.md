@@ -17,6 +17,14 @@ For other FireTV device firmware visit the following:<br>
 
 
 ### Full Firmware Update
+Panasonic Z95B OLED (2025)<br>
+| Date | Version | Download | Size | MD5 |
+|:----:|:-------:|:--------:|:----:|:---:|
+| 2026-09-07 | FireOS 8.1.8.0 (RS8180.3742) | [update-kindle-lassen-lp-RS8180_user_3742_0032280321668.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/8/6/23465130-b570-4e09-8eb9-f6e943b369e6/update-kindle-lassen-lp-RS8180_user_3742_0032280321668.bin) | 967.4MB | 395a559fc5036d5b41ac047a9d3437e4 |
+| 2026-10-29 | FireOS 8.1.8.5 (RS8185.3896) | [update-kindle-lassen-lp-RS8185_user_3896_0033018558596.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/10/29/dd2922bc-72eb-4af6-bd1c-898e9af11c13/update-kindle-lassen-lp-RS8185_user_3896_0033018558596.bin) | 974.9MB | e9d5f5c2d10ba227d9c94d2f5eae491d |
+
+
+
 Amazon Fire TV 4-series 4K UHD smart TV (4K\*\*N400\* - 2024)<br>
 Amazon Fire TV Omni LED 4K (QL\*\*F601\* - 2023)<br>
 | Date | Version | Download | Size | MD5 |
